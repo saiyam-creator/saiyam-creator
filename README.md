@@ -136,3 +136,123 @@ SOCIAL LIFE       ██░░░░░░░░░░  critical
 ```
 
 </div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=PROJECT+SAIYAM;AI+%2F+CREATIVE+SYSTEMS;BUILDING+STRANGE+DIGITAL+THINGS;WELCOME+TO+THE+TERMINAL" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,100:00F7FF&section=header"/>
+
+</div>
+
+---
+
+# > boot_log.sys
+
+```bash
+Initializing system...
+
+[✓] curiosity_engine.dll loaded
+[✓] cinematic_ui.dll loaded
+[✓] ai_obsession.dll loaded
+[✓] creative_mode.dll loaded
+
+System Status :: ONLINE
+```
+
+---
+
+# > profile_manifest.json
+
+```json
+{
+  "name": "Saiyam",
+  "role": "Creative Developer",
+  "focus": [
+    "Artificial Intelligence",
+    "Experimental Interfaces",
+    "Creative Coding",
+    "3D Web Exploration"
+  ],
+  "status": "evolving"
+}
+```
+
+---
+
+# > current_operations
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saiyam-creator&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF" />
+
+</div>
+
+---
+
+# > active_projects
+
+```txt
+[01] AI experiments
+     └─ weird concepts & machine behavior
+
+[02] multiplayer chaos engine
+     └─ same screen game experiments
+
+[03] cinematic web systems
+     └─ immersive interactive interfaces
+```
+
+---
+
+# > system_diagnostics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saiyam-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saiyam-creator&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+---
+
+# > neural_activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=saiyam-creator&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+# > visitor_scan
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=saiyam-creator&label=VISITORS&color=0e75b6&style=flat" />
+
+</div>
+
+---
+
+# > transmission_links
+
+<div align="center">
+
+<a href="https://github.com/saiyam-creator">
+  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F7FF,100:0d1117&section=footer"/>
+
+</div>
