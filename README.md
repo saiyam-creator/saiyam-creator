@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=SAIYAM&fontSize=110&fontAlign=50&fontAlignY=55&animation=fadeIn&color=0:000000,30:0a0010,60:160025,100:22003a&fontColor=ff44ff&stroke=9900ff&strokeWidth=3&desc=DIGITAL%20ARCHITECT%20%E2%80%A2%20AI%20COMMANDER%20%E2%80%A2%20EXPERIMENTAL%20SYSTEMS&descAlignY=78&descSize=14&descColor=dd77ff"/>
 
@@ -139,4 +139,4 @@ SAIYAM_PROTOCOL:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:22003a,50:0f0020,100:000000&text=see+you+in+the+next+build.&fontSize=16&fontAlignY=65&fontColor=dd77ff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:22003a,50:0f0020,100:000000&text=see+you+in+the+next+build.&fontSize=16&fontAlignY=65&fontColor=dd77ff&animation=fadeIn"/> -->
