@@ -22,93 +22,107 @@
 
 <div align="center">
 
-# PROJECT : SAIYAM
-
-```bash
-> initializing profile...
-
-[ SYSTEM ONLINE ]
-[ curiosity detected ]
-[ creative engine active ]
-
-status  : evolving
-focus   : AI • Python • Experimental Web
-mindset : build cool things, learn deeply
+```txt
+██████╗ ██████╗  ██████╗      ██╗███████╗ ██████╗████████╗
+██╔══██╗██╔══██╗██╔═══██╗     ██║██╔════╝██╔════╝╚══██╔══╝
+██████╔╝██████╔╝██║   ██║     ██║█████╗  ██║        ██║   
+██╔═══╝ ██╔══██╗██║   ██║██   ██║██╔══╝  ██║        ██║   
+██║     ██║  ██║╚██████╔╝╚█████╔╝███████╗╚██████╗   ██║   
+╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚════╝ ╚══════╝ ╚═════╝   ╚═╝   
 ```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1b27&height=2"/>
 
 </div>
 
+# // SAIYAM.exe
+
+```bash
+> boot sequence initialized...
+
+loading curiosity_engine.dll ...
+loading creative_systems.dll ...
+loading ai_obsession.dll ...
+
+-----------------------------------------
+STATUS      :: ONLINE
+VERSION     :: v0.7 beta
+LOCATION    :: somewhere between code & imagination
+SIGNAL      :: stable
+-----------------------------------------
+```
+
 ---
 
-## /about_me
+## // ORIGIN
 
-I'm exploring the intersection of:
-- artificial intelligence
-- digital aesthetics
-- interactive experiences
-- weird experimental ideas
+Most people learn code to build apps.
 
-Currently obsessed with:
-- AI systems
-- creative coding
-- cinematic web experiences
-- building things that feel alive
+I'm more interested in building:
+- experiences
+- atmospheres
+- systems that feel alive
+- strange ideas that shouldn't work... but do
+
+I like the space where:
+> technology feels cinematic.
 
 ---
 
-## /current_arc
+## // CURRENT OPERATIONS
 
 ```yaml
-learning:
-  - python
-  - ai fundamentals
-  - frontend experiments
-  - 3d web concepts
+active_projects:
+  - AI experiments
+  - cinematic web interfaces
+  - local multiplayer game concepts
+  - interactive digital worlds
 
-building:
-  - experimental projects
-  - game ideas
-  - aesthetic interfaces
+currently_learning:
+  - python deeply
+  - how AI models work
+  - frontend motion systems
+  - 3D web technologies
 
-goal:
-  create things people remember
+mental_state:
+  curiosity: MAXIMUM
+  perfectionism: unstable
+  sleep_cycle: corrupted
 ```
 
 ---
 
-## /featured_projects
+## // FEATURED ARCHIVES
 
-### ▍AI Experiments
-small AI concepts, weird ideas, learning projects
+```txt
+[01] experimental-ai/
+└─ weird machine behavior & concepts
 
-### ▍2 Player Game Concepts
-local multiplayer chaos & fun mechanics
+[02] local-chaos-engine/
+└─ same screen multiplayer experiments
 
-### ▍3D Web Exploration
-cinematic interfaces and immersive visuals
-
----
-
-## /system_stats
-
-```bash
-Creativity     ██████████  92%
-Consistency    ███████░░░  70%
-Sleep          ██░░░░░░░░  12%
-Curiosity      ██████████  100%
+[03] cinematic-web-lab/
+└─ immersive interface exploration
 ```
 
 ---
 
-## /connect
+## // SYSTEM DIAGNOSTICS
 
-```bash
-> transmission open
+```txt
+CREATIVITY        ████████████  96%
+CONSISTENCY       ████████░░░░  68%
+IDEAS PER MINUTE  ████████████  ∞
+SOCIAL LIFE       ██░░░░░░░░░░  critical
 ```
+
+---
+
+## // TRANSMISSION_LINKS
 
 <p align="left">
   <a href="https://github.com/saiyam-creator">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -117,7 +131,8 @@ Curiosity      ██████████  100%
 <div align="center">
 
 ```bash
-> end transmission...
+> transmission terminated...
+> see you in the next build.
 ```
 
 </div>
