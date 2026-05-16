@@ -12,7 +12,7 @@
 
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=saiyam-creator&label=VISITORS&color=9900ff&style=for-the-badge)
+![SIGNAL TRACE](https://komarev.com/ghpvc/?username=saiyam-creator&label=SIGNAL%20TRACE&color=9900ff&style=for-the-badge)
 
 </div>
 
@@ -85,6 +85,17 @@ SAIYAM_PROTOCOL:
 
 ---
 
+```txt
+signal integrity : 73%
+memory corruption detected...
+recovering fragments...
+```
+
+```diff
++ WARNING : neural synchronization exceeding normal human thresholds.
++ unstable creative patterns detected.
+```
+
 ## ⬡ NEURAL ACTIVITY
 
 <div align="center">
@@ -123,6 +134,14 @@ SAIYAM_PROTOCOL:
 
 </div>
 
+```txt
+[ GPT ]      connected
+[ CLAUDE ]   connected
+[ GEMINI ]   connected
+
+awaiting instructions...
+```
+
 ---
 
 <div align="center">
@@ -133,4 +152,17 @@ SAIYAM_PROTOCOL:
 
 </div>
 
+```bash
+> memory leak detected...
+> reality integrity compromised...
+> continuing execution anyway...
+```
+
+<!--
+if you found this,
+you were curious enough to look deeper.
+
+most people don't.
+-->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ff00ff,100:000000&height=1"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:22003a,50:0f0020,100:000000&text=see+you+in+the+next+build.&fontSize=16&fontAlignY=65&fontColor=dd77ff&animation=fadeIn"/>
