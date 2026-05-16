@@ -1,100 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=220&text=SAIYAM&fontSize=70&fontAlignY=38&animation=fadeIn&color=0:000000,100:00F7FF&fontColor=FFFFFF"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=BOOTING+NEURAL+SYSTEMS...;ARTIFICIAL+INTELLIGENCE+%2F+CREATIVE+CODING;BUILDING+DIGITAL+THINGS+THAT+FEEL+ALIVE;WELCOME+TO+PROJECT+SAIYAM"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00F7FF&height=2"/>
-
-# > initialize_system.exe
-
-```bash
-[ SYSTEM STATUS : ONLINE ]
-
-User            :: Saiyam
-Role            :: Creative Developer
-Specialization  :: AI • Experimental Systems • Cinematic Interfaces
-Location        :: somewhere between code and imagination
-
---------------------------------------------
-
-loading curiosity_engine.dll ...
-loading neural_patterns.dll ...
-loading cinematic_ui.dll ...
-loading chaos_generator.dll ...
-
---------------------------------------------
-
-STATUS : STABLE
-THREAT LEVEL : UNKNOWN
-```
-
----
-
-# > identity.log
-
-```txt
-Most people build apps.
-
-I'm more interested in building:
-- atmospheres
-- immersive experiences
-- strange systems
-- digital worlds that feel cinematic
-
-I like technology when it feels:
-dangerous • mysterious • alive
-```
-
----
-
-# > current_missions.yaml
-
-```yaml
-ACTIVE_OPERATIONS:
-
-  learning:
-    - advanced python
-    - AI architecture
-    - frontend motion systems
-    - immersive web technologies
-
-  building:
-    - experimental AI concepts
-    - multiplayer chaos engines
-    - cinematic interfaces
-    - weird digital experiments
-
-  long_term_goal:
-    create unforgettable digital experiences
-```
-
----
-
-# > featured_archives/
-
-```txt
-[01] experimental-ai/
-└─ exploring machine behavior
-
-[02] local-chaos-engine/
-└─ same-screen multiplayer madness
-
-[03] cinematic-web-lab/
-└─ immersive futuristic interfaces
-```
-
----
-
-# > neural_activity.graph
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saiyam-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=saiyam-creator&theme=tokyonight&hide_border=true&background=000000"/>
+<!-- GLITCH BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=SAIYAM&fontSize=90&fontAlignY=55&animation=twinkling&color=0:0a0a0a,50:1a0533,100:0d001f&fontColor=bf9fff&stroke=7c3aed&strokeWidth=2&desc=creative%20developer%20%2F%20digital%20architect&descAlignY=75&descSize=18&descColor=a78bfa"/>
 
 </div>
 
@@ -102,46 +9,152 @@ ACTIVE_OPERATIONS:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saiyam-creator&theme=react-dark&hide_border=true&bg_color=000000&color=00F7FF&line=00F7FF&point=FFFFFF"/>
+<!-- ANIMATED TYPEWRITER -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=building+things+that+feel+alive+%E2%9C%A6;somewhere+between+code+%2B+imagination;not+just+apps+%E2%80%94+atmospheres;dangerous+%E2%80%A2+mysterious+%E2%80%A2+alive" alt="typing"/>
+
+</div>
+
+<br>
+
+---
+
+## `whoami`
+
+```zsh
+╭─ saiyam  ─────────────────────────────────────────────────────╮
+│                                                               │
+│   role      →  Creative Developer                             │
+│   focus     →  AI • Experimental Systems • Cinematic UX       │
+│   location  →  somewhere between code and imagination         │
+│   vibe      →  dangerous • mysterious • alive                 │
+│                                                               │
+│   i don't build apps.                                         │
+│   i build atmospheres.                                        │
+│                                                               │
+╰───────────────────────────────────────────────────────────────╯
+```
+
+---
+
+## `cat missions.log`
+
+> **learning**
+> ```
+> advanced python · AI architecture · frontend motion systems
+> immersive web · real-time multiplayer · generative systems
+> ```
+
+> **building**
+> ```
+> experimental AI concepts   →  making machines feel conscious
+> chaos engines              →  same-screen multiplayer madness  
+> cinematic interfaces       →  UI that feels like a film set
+> weird digital experiments  →  undefined. always undefined.
+> ```
+
+> **endgame**
+> ```
+> create unforgettable digital experiences
+> ```
+
+---
+
+## `ls projects/`
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 `experimental-ai/`
+Exploring machine behavior at the edge of what's expected. Not ChatGPT wrappers. Actual weird stuff.
+
+</td>
+<td width="50%">
+
+### ⚡ `local-chaos-engine/`
+Same-screen multiplayer. Pure controlled chaos. The kind that breaks friendships.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎬 `cinematic-web-lab/`
+Interfaces that feel like opening scenes. Immersive. Futuristic. A little unsettling.
+
+</td>
+<td width="50%">
+
+### 🌀 `undefined_project/`
+No name yet. Exists somewhere between a fever dream and a portfolio piece.
+
+</td>
+</tr>
+</table>
+
+---
+
+## `htop — neural activity`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=saiyam-creator&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d001f&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&ring_color=7c3aed"/>
+<img height="165" src="https://streak-stats.demolab.com?user=saiyam-creator&theme=midnight-purple&hide_border=true&background=0d001f&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=6d28d9"/>
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saiyam-creator&theme=tokyo-night&hide_border=true&bg_color=0d001f&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=3b0764"/>
+</div>
+
+---
+
+## `diagnostics.sh`
+
+```
+CREATIVITY          ▰▰▰▰▰▰▰▰▰▰▰▰▰  maxed out
+CURIOSITY           ▰▰▰▰▰▰▰▰▰▰▰▰▰  infinite loop
+FOCUS               ▰▰▰▰▰▰▰▱▱▱▱▱▱  fluctuating
+SLEEP               ▰▰▱▱▱▱▱▱▱▱▱▱▱  critically low
+REALITY_ANCHOR      ▰▰▰▱▱▱▱▱▱▱▱▱▱  loosening
+VIBE                ▰▰▰▰▰▰▰▰▰▰▰▰▰  immaculate
+```
+
+---
+
+## `ping stack`
+
+<div align="center">
+
+<!-- SKILLS BADGES — Purple aesthetic -->
+![Python](https://img.shields.io/badge/Python-0d001f?style=for-the-badge&logo=python&logoColor=a78bfa)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d001f?style=for-the-badge&logo=javascript&logoColor=a78bfa)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d001f?style=for-the-badge&logo=typescript&logoColor=a78bfa)
+![React](https://img.shields.io/badge/React-0d001f?style=for-the-badge&logo=react&logoColor=a78bfa)
+![Three.js](https://img.shields.io/badge/Three.js-0d001f?style=for-the-badge&logo=threedotjs&logoColor=a78bfa)
+![GSAP](https://img.shields.io/badge/GSAP-0d001f?style=for-the-badge&logo=greensock&logoColor=a78bfa)
+![Framer](https://img.shields.io/badge/Framer-0d001f?style=for-the-badge&logo=framer&logoColor=a78bfa)
+![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-0d001f?style=for-the-badge&logo=openai&logoColor=a78bfa)
 
 </div>
 
 ---
 
-# > system_diagnostics
-
-```txt
-CREATIVITY          █████████████  99%
-CURIOSITY           █████████████  ∞
-FOCUS               ████████░░░░░  unstable
-SLEEP               ██░░░░░░░░░░░  corrupted
-REALITY CONNECTION  ███░░░░░░░░░░ weak
-```
-
----
-
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=saiyam-creator&label=VISITORS&color=00F7FF&style=for-the-badge"/>
+[![GitHub](https://img.shields.io/badge/GITHUB-0d001f?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/saiyam-creator)
+&nbsp;
+![Visitors](https://komarev.com/ghpvc/?username=saiyam-creator&label=VISITORS&color=7c3aed&style=for-the-badge)
 
 <br><br>
 
-<a href="https://github.com/saiyam-creator">
-  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00F7FF"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-```bash
-> transmission terminated...
-
-see you in the next timeline.
+```
+> connection closed.
+  see you in the next build.
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00F7FF,100:000000"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d001f,100:3b0764&fontColor=a78bfa"/>
 
 </div>
