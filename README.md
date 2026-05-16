@@ -11,7 +11,7 @@
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saiyam-creator&layout=compact&theme=tokyonight)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Developer;Creative+Builder;Python+Learner;Building+Cool+Stuff+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=AI+Developer;Creative+Builder;Python+Learner;Building+Cool+Stuff" />
 </p>
 
 ## ⚡ Tech Stack
