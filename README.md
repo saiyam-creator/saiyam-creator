@@ -91,7 +91,7 @@ SAIYAM_PROTOCOL:
 
 <img height="185" src="https://github-readme-stats.vercel.app/api?username=saiyam-creator&show_icons=true&theme=transparent&hide_border=false&bg_color=0a0015&title_color=ff44ff&icon_color=9900ff&text_color=dd77ff&border_color=9900ff55&border_radius=10&ring_color=9900ff&custom_title=SAIYAM+%2F+NEURAL+STATS"/>
 &nbsp;
-<img height="185" src="streak.svg" alt="streak stats"/>
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiyam-creator&layout=compact&theme=transparent&hide_border=false&bg_color=0a0015&title_color=ff44ff&text_color=dd77ff&border_color=9900ff55&border_radius=10&langs_count=6&custom_title=TOP+LANGUAGES"/>
 
 </div>
 
