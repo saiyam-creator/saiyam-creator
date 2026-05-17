@@ -1,14 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=SAIYAM&fontSize=110&fontAlign=50&fontAlignY=55&animation=fadeIn&color=0:000000,30:0a0010,60:160025,100:22003a&fontColor=ff44ff&stroke=9900ff&strokeWidth=3&desc=DIGITAL%20ARCHITECT%20%E2%80%A2%20AI%20COMMANDER%20%E2%80%A2%20EXPERIMENTAL%20SYSTEMS&descAlignY=78&descSize=14&descColor=dd77ff"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=SAIYAM&fontSize=110&fontAlign=50&fontAlignY=50&animation=fadeIn&color=0:000000,25:0a0015,55:160025,100:250040&fontColor=ff44ff&stroke=9900ff&strokeWidth=3&desc=DIGITAL%20ARCHITECT%20•%20AI%20COMMANDER%20•%20EXPERIMENTAL%20SYSTEMS&descAlignY=76&descSize=14&descColor=dd77ff"/>
+
+<img src="https://capsule-render.vercel.app/api?type=blur&height=35&color=0:ff00ff,100:000000"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=17&duration=2600&pause=900&color=FF44FF&center=true&vCenter=true&width=720&lines=why+should+i+code%3F;...when+my+AIs+execute+better+on+my+order.;%5B+GPT+%5D+%5B+Claude+%5D+%5B+Gemini+%5D++++ALL+LOYAL.;building+things+that+feel+dangerous.;atmospheres.+not+apps.;i+am+the+architect.+they+are+the+hands." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=17&duration=2600&pause=900&color=FF44FF&center=true&vCenter=true&width=850&lines=why+should+i+code%3F;...when+my+AIs+execute+better+on+my+order.;%5B+GPT+%5D+%5B+Claude+%5D+%5B+Gemini+%5D++++ALL+LOYAL.;building+things+that+feel+dangerous.;atmospheres.+not+apps.;i+am+the+architect.+they+are+the+hands."/>
 
 </div>
+
+```powershell
+[BOOT_SEQUENCE_INITIALIZED]
+
+loading neural_core.sys ...
+loading behavior_prediction.dll ...
+loading reality_distortion_engine.dll ...
+loading cinematic_engine.dll ...
+
+connection established.
+
+welcome back, saiyam.
+```
 
 <div align="center">
 
@@ -20,67 +35,93 @@
 
 ---
 
-## ⬡ IDENTITY CORE
+# ⬡ IDENTITY CORE
 
 <div align="center">
-<table><tr>
-<td><img src="identity.svg" alt="identity"/></td>
-<td><img src="ai_commander.svg" alt="ai commander"/></td>
-</tr></table>
+
+```txt
+USER              :: Saiyam
+ROLE              :: Creative Developer
+SPECIALIZATION    :: AI • Cinematic Interfaces • Experimental Systems
+STATUS            :: ONLINE
+THREAT LEVEL      :: UNKNOWN
+```
+
 </div>
 
 ---
 
-## ⬡ SYSTEM DIAGNOSTICS
+# ⬡ FILE SYSTEM
 
-<div align="center">
-<img src="diagnostics.svg" alt="diagnostics" width="100%"/>
-</div>
+```txt
+/root
+ ├── experimental_ai/
+ ├── cinematic_web_lab/
+ ├── local_chaos_engine/
+ ├── forbidden_projects/
+ ├── neural_archives/
+ └── reality_glitches/
+```
 
 ---
 
-## ⬡ ACTIVE MISSIONS
+# ⬡ ACTIVE MISSIONS
 
 ```yaml
 SAIYAM_PROTOCOL:
 
   learning:
-    - advanced python          # going deeper than tutorials dare
-    - AI architecture          # how models actually think
-    - frontend motion systems  # GSAP · Framer · raw WebGL
-    - immersive web tech       # the web as an experience, not a page
+    - advanced python
+    - AI architecture
+    - frontend motion systems
+    - immersive web technologies
+    - machine behavior analysis
 
   building:
-    - experimental_ai/         # making machines do unexpected things
-    - local_chaos_engine/      # same-screen multiplayer. friendships: null
-    - cinematic_web_lab/       # UI that feels like a film's opening shot
-    - [CLASSIFIED]/            # undefined. always undefined.
+    - experimental_ai/
+    - local_chaos_engine/
+    - cinematic_web_lab/
+    - forbidden_projects/
+    - [CLASSIFIED]/
 
-  endgame: >
-    create unforgettable digital experiences.
-    the kind people can't stop thinking about.
+  objective:
+    create digital experiences people never forget
+
+  system_state:
+    creativity: overloaded
+    sleep_cycle: corrupted
+    curiosity: infinite
 ```
 
 ---
 
-## ⬡ PROJECT ARCHIVES
+# ⬡ PROJECT ARCHIVES
 
+```txt
+[01] experimental-ai/
+     └─ exploring machine behavior at the edge of control.
+
+[02] local-chaos-engine/
+     └─ same-screen multiplayer chaos.
+
+[03] cinematic-web-lab/
+     └─ interfaces that feel like scenes from a film.
+
+[04] forbidden_projects/
+     └─ unstable concepts not ready for public deployment.
+
+[??] [CLASSIFIED]/
+     └─ unknown status.
 ```
-[01]  experimental-ai/
-      └─ exploring machine behavior at the edge of what's allowed.
-         not wrappers. actual weird, unexpected stuff.
 
-[02]  local-chaos-engine/
-      └─ same-screen multiplayer madness.
-         the kind that breaks friendships.
+---
 
-[03]  cinematic-web-lab/
-      └─ interfaces that feel like opening scenes of a film.
-         immersive. futuristic. slightly unsettling.
+```txt
+>> incoming transmission...
 
-[??]  [CLASSIFIED]/
-      └─ no name yet. somewhere between a fever dream
-         and the best thing i've ever built. ETA: unknown.
+"the machine was never supposed to become self-aware."
+
+signal lost.
 ```
 
 ---
@@ -92,11 +133,11 @@ recovering fragments...
 ```
 
 ```diff
-+ WARNING : neural synchronization exceeding normal human thresholds.
-+ unstable creative patterns detected.
++ WARNING : neural synchronization exceeding safe limits.
++ unstable creative behavior detected.
 ```
 
-## ⬡ NEURAL ACTIVITY
+# ⬡ NEURAL ACTIVITY
 
 <div align="center">
 
@@ -107,12 +148,25 @@ recovering fragments...
 </div>
 
 <div align="center">
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=saiyam-creator&bg_color=0a0015&color=ff44ff&line=9900ff&point=ffffff&area=true&area_color=9900ff&hide_border=false&border_color=9900ff55&radius=10&custom_title=COMMIT+TIMELINE+%2F+EVIDENCE+OF+EXISTENCE"/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=saiyam-creator&bg_color=0a0015&color=ff44ff&line=9900ff&point=ffffff&area=true&area_color=9900ff&hide_border=true"/>
+
 </div>
 
 ---
 
-## ⬡ TECH ARSENAL
+# ⬡ OBSERVED BEHAVIOR
+
+```txt
+sleep cycle        :: corrupted
+creative output    :: unstable
+reality perception :: distorted
+human limitations  :: rejected
+```
+
+---
+
+# ⬡ TECH ARSENAL
 
 <div align="center">
 
@@ -134,19 +188,33 @@ recovering fragments...
 
 </div>
 
+---
+
+# ⬡ AI NETWORK STATUS
+
 ```txt
 [ GPT ]      connected
 [ CLAUDE ]   connected
 [ GEMINI ]   connected
 
-awaiting instructions...
+directive status :: awaiting command
+```
+
+---
+
+# ⬡ FINAL LOG
+
+```txt
+[ LOG 004 ]
+
+the experiments are progressing faster than expected.
+
+containment may no longer be possible.
 ```
 
 ---
 
 <div align="center">
-<img src="philosophy.svg" alt="philosophy"/>
-<br><br>
 
 [![GitHub](https://img.shields.io/badge/GITHUB%20%2F%20saiyam--creator-0a0015?style=for-the-badge&logo=github&logoColor=ff44ff)](https://github.com/saiyam-creator)
 
@@ -164,5 +232,11 @@ you were curious enough to look deeper.
 
 most people don't.
 -->
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ff00ff,100:000000&height=1"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:22003a,50:0f0020,100:000000&text=see+you+in+the+next+build.&fontSize=16&fontAlignY=65&fontColor=dd77ff&animation=fadeIn"/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:250040,40:140020,100:000000&text=see+you+in+the+next+timeline.&fontSize=16&fontAlignY=65&fontColor=dd77ff&animation=fadeIn"/>
+
+</div>
