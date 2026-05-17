@@ -1,57 +1,91 @@
+# PROJECT SAIYAM — Advanced GitHub README
+
+````md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=SAIYAM&fontSize=110&fontAlign=50&fontAlignY=50&animation=fadeIn&color=0:000000,25:0a0015,55:160025,100:250040&fontColor=ff44ff&stroke=9900ff&strokeWidth=3&desc=DIGITAL%20ARCHITECT%20•%20AI%20COMMANDER%20•%20EXPERIMENTAL%20SYSTEMS&descAlignY=76&descSize=14&descColor=dd77ff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=SAIYAM&fontSize=100&fontAlign=50&fontAlignY=42&animation=fadeIn&color=0:000000,25:120018,55:2a0048,100:ff00ff&fontColor=ffffff&stroke=ff00ff&strokeWidth=2&desc=DIGITAL%20ARCHITECT%20•%20AI%20COMMANDER%20•%20REALITY%20DISTORTION%20ENGINEER&descAlignY=68&descSize=16&descColor=f5b6ff"/>
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=35&color=0:ff00ff,100:000000"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2400&pause=800&color=FF00FF&center=true&vCenter=true&width=900&lines=building+things+that+shouldn't+exist.;AI+SYSTEMS+%2F+CINEMATIC+INTERFACES+%2F+CHAOS+ENGINES.;the+machine+is+learning.;welcome+to+project+saiyam."/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=saiyam-creator&label=SIGNAL%20TRACE&color=ff00ff&style=for-the-badge"/>
 
 </div>
 
+---
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=17&duration=2600&pause=900&color=FF44FF&center=true&vCenter=true&width=850&lines=why+should+i+code%3F;...when+my+AIs+execute+better+on+my+order.;%5B+GPT+%5D+%5B+Claude+%5D+%5B+Gemini+%5D++++ALL+LOYAL.;building+things+that+feel+dangerous.;atmospheres.+not+apps.;i+am+the+architect.+they+are+the+hands."/>
+```diff
++ WARNING : unauthorized neural activity detected.
++ experimental systems operating beyond normal parameters.
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="95%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:0a0015,50:140020,100:000000&text=BOOT_SEQUENCE_INITIALIZED&fontColor=ff44ff&fontSize=28&animation=fadeIn"/>
 
 </div>
 
 ```powershell
-[BOOT_SEQUENCE_INITIALIZED]
-
 loading neural_core.sys ...
+loading cinematic_engine.dll ...
 loading behavior_prediction.dll ...
 loading reality_distortion_engine.dll ...
-loading cinematic_engine.dll ...
+loading forbidden_protocols.dll ...
 
 connection established.
 
 welcome back, saiyam.
 ```
 
-<div align="center">
-
-![SIGNAL TRACE](https://komarev.com/ghpvc/?username=saiyam-creator&label=SIGNAL%20TRACE&color=9900ff&style=for-the-badge)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9900ff,50:ff44ff,100:9900ff&height=2"/>
-
 ---
 
-# ⬡ IDENTITY CORE
-
 <div align="center">
 
-```txt
-USER              :: Saiyam
-ROLE              :: Creative Developer
-SPECIALIZATION    :: AI • Cinematic Interfaces • Experimental Systems
-STATUS            :: ONLINE
-THREAT LEVEL      :: UNKNOWN
+# ⬡ SYSTEM PROFILE
+
+<table>
+<tr>
+<td width="50%">
+
+```yaml
+USER:
+  name: Saiyam
+  role: Creative Developer
+  status: ONLINE
+  threat_level: UNKNOWN
 ```
 
+</td>
+<td width="50%">
+
+```yaml
+SPECIALIZATION:
+  - Artificial Intelligence
+  - Cinematic Interfaces
+  - Experimental Systems
+  - Interactive Worlds
+```
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
+<div align="center">
+
 # ⬡ FILE SYSTEM
+
+</div>
 
 ```txt
 /root
@@ -60,12 +94,17 @@ THREAT LEVEL      :: UNKNOWN
  ├── local_chaos_engine/
  ├── forbidden_projects/
  ├── neural_archives/
- └── reality_glitches/
+ ├── reality_glitches/
+ └── classified_protocols/
 ```
 
 ---
 
+<div align="center">
+
 # ⬡ ACTIVE MISSIONS
+
+</div>
 
 ```yaml
 SAIYAM_PROTOCOL:
@@ -73,48 +112,50 @@ SAIYAM_PROTOCOL:
   learning:
     - advanced python
     - AI architecture
-    - frontend motion systems
-    - immersive web technologies
+    - immersive web systems
+    - frontend motion engineering
     - machine behavior analysis
 
   building:
     - experimental_ai/
-    - local_chaos_engine/
     - cinematic_web_lab/
+    - local_chaos_engine/
     - forbidden_projects/
-    - [CLASSIFIED]/
 
   objective:
-    create digital experiences people never forget
+    create unforgettable digital experiences
 
-  system_state:
+  mental_state:
     creativity: overloaded
-    sleep_cycle: corrupted
     curiosity: infinite
+    sleep_cycle: corrupted
 ```
 
 ---
+
+<div align="center">
 
 # ⬡ PROJECT ARCHIVES
 
+</div>
+
 ```txt
 [01] experimental-ai/
-     └─ exploring machine behavior at the edge of control.
+     └─ machine behavior beyond expected limits.
 
 [02] local-chaos-engine/
-     └─ same-screen multiplayer chaos.
+     └─ same-screen multiplayer destruction.
 
 [03] cinematic-web-lab/
-     └─ interfaces that feel like scenes from a film.
+     └─ interfaces that feel alive.
 
-[04] forbidden_projects/
-     └─ unstable concepts not ready for public deployment.
-
-[??] [CLASSIFIED]/
-     └─ unknown status.
+[04] forbidden-projects/
+     └─ unstable concepts under development.
 ```
 
 ---
+
+<div align="center">
 
 ```txt
 >> incoming transmission...
@@ -124,38 +165,43 @@ SAIYAM_PROTOCOL:
 signal lost.
 ```
 
+</div>
+
 ---
 
-```txt
-signal integrity : 73%
-memory corruption detected...
-recovering fragments...
-```
-
-```diff
-+ WARNING : neural synchronization exceeding safe limits.
-+ unstable creative behavior detected.
-```
+<div align="center">
 
 # ⬡ NEURAL ACTIVITY
 
-<div align="center">
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saiyam-creator&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D001A&title_color=FF44FF&icon_color=BB00FF&text_color=E0B3FF"/>
 
-<img height="185" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saiyam-creator&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d001a&title_color=ff44ff&icon_color=bb00ff&text_color=e0b3ff"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saiyam-creator&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D001A&title_color=FF44FF&text_color=E0B3FF"/>
 
-<img height="185" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saiyam-creator&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d001a&title_color=ff44ff&text_color=e0b3ff"/>
+<br><br>
 
-</div>
-
-<div align="center">
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=saiyam-creator&bg_color=0a0015&color=ff44ff&line=9900ff&point=ffffff&area=true&area_color=9900ff&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saiyam-creator&bg_color=0a0015&color=ff44ff&line=bb00ff&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-# ⬡ OBSERVED BEHAVIOR
+<div align="center">
+
+# ⬡ SYSTEM DIAGNOSTICS
+
+<table>
+<tr>
+<td>
+
+```txt
+CREATIVITY        ████████████ 99%
+CURIOSITY         ████████████ ∞
+FOCUS             ████████░░░░ unstable
+REALITY LINK      ██░░░░░░░░░░ weak
+```
+
+</td>
+<td>
 
 ```txt
 sleep cycle        :: corrupted
@@ -164,31 +210,33 @@ reality perception :: distorted
 human limitations  :: rejected
 ```
 
----
-
-# ⬡ TECH ARSENAL
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/PYTHON-0a0015?style=for-the-badge&logo=python&logoColor=ff44ff)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0a0015?style=for-the-badge&logo=javascript&logoColor=ff44ff)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-0a0015?style=for-the-badge&logo=typescript&logoColor=ff44ff)
-![React](https://img.shields.io/badge/REACT-0a0015?style=for-the-badge&logo=react&logoColor=ff44ff)
-![Three.js](https://img.shields.io/badge/THREE.JS-0a0015?style=for-the-badge&logo=threedotjs&logoColor=ff44ff)
-![GSAP](https://img.shields.io/badge/GSAP-0a0015?style=for-the-badge&logo=greensock&logoColor=ff44ff)
-![WebGL](https://img.shields.io/badge/WEBGL-0a0015?style=for-the-badge&logo=webgl&logoColor=ff44ff)
-![Node.js](https://img.shields.io/badge/NODE.JS-0a0015?style=for-the-badge&logo=nodedotjs&logoColor=ff44ff)
-
-<br>
-
-![GPT](https://img.shields.io/badge/GPT-0a0015?style=for-the-badge&logo=openai&logoColor=ff44ff)
-![Claude](https://img.shields.io/badge/CLAUDE-0a0015?style=for-the-badge&logo=anthropic&logoColor=ff44ff)
-![Gemini](https://img.shields.io/badge/GEMINI-0a0015?style=for-the-badge&logo=google&logoColor=ff44ff)
-![Framer](https://img.shields.io/badge/FRAMER-0a0015?style=for-the-badge&logo=framer&logoColor=ff44ff)
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
+
+<div align="center">
+
+# ⬡ TECH ARSENAL
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,threejs,blender,html,css,git,github,vscode&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/GPT-0D001A?style=for-the-badge&logo=openai&logoColor=ff44ff"/>
+<img src="https://img.shields.io/badge/CLAUDE-0D001A?style=for-the-badge&logo=anthropic&logoColor=ff44ff"/>
+<img src="https://img.shields.io/badge/GEMINI-0D001A?style=for-the-badge&logo=google&logoColor=ff44ff"/>
+<img src="https://img.shields.io/badge/WEBGL-0D001A?style=for-the-badge&logo=webgl&logoColor=ff44ff"/>
+<img src="https://img.shields.io/badge/GSAP-0D001A?style=for-the-badge&logo=greensock&logoColor=ff44ff"/>
+
+</div>
+
+---
+
+<div align="center">
 
 # ⬡ AI NETWORK STATUS
 
@@ -197,10 +245,14 @@ human limitations  :: rejected
 [ CLAUDE ]   connected
 [ GEMINI ]   connected
 
-directive status :: awaiting command
+DIRECTIVE STATUS :: awaiting command
 ```
 
+</div>
+
 ---
+
+<div align="center">
 
 # ⬡ FINAL LOG
 
@@ -212,11 +264,15 @@ the experiments are progressing faster than expected.
 containment may no longer be possible.
 ```
 
+</div>
+
 ---
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB%20%2F%20saiyam--creator-0a0015?style=for-the-badge&logo=github&logoColor=ff44ff)](https://github.com/saiyam-creator)
+<a href="https://github.com/saiyam-creator">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=ff44ff"/>
+</a>
 
 </div>
 
@@ -227,16 +283,13 @@ containment may no longer be possible.
 ```
 
 <!--
-if you found this,
-you were curious enough to look deeper.
-
-most people don't.
+if you're reading this,
+you went deeper than most people ever do.
 -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ff00ff,100:000000&height=1"/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:250040,40:140020,100:000000&text=see+you+in+the+next+timeline.&fontSize=16&fontAlignY=65&fontColor=dd77ff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:ff00ff,50:140020,100:000000&text=see+you+in+the+next+timeline.&fontSize=18&fontAlignY=70&fontColor=ffffff"/>
 
 </div>
+````
