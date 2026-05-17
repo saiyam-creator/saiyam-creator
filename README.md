@@ -1,6 +1,4 @@
-# PROJECT SAIYAM — Advanced GitHub README
 
-````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=SAIYAM&fontSize=100&fontAlign=50&fontAlignY=42&animation=fadeIn&color=0:000000,25:120018,55:2a0048,100:ff00ff&fontColor=ffffff&stroke=ff00ff&strokeWidth=2&desc=DIGITAL%20ARCHITECT%20•%20AI%20COMMANDER%20•%20REALITY%20DISTORTION%20ENGINEER&descAlignY=68&descSize=16&descColor=f5b6ff"/>
