@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=SAIYAM&fontSize=110&fontAlign=50&fontAlignY=55&animation=fadeIn&color=0:000000,30:0a0010,60:160025,100:22003a&fontColor=ff44ff&stroke=9900ff&strokeWidth=3&desc=DIGITAL%20ARCHITECT%20%E2%80%A2%20AI%20COMMANDER%20%E2%80%A2%20EXPERIMENTAL%20SYSTEMS&descAlignY=78&descSize=14&descColor=dd77ff"/>
 
 </div>
-<img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXgzazY0NjQ3a3ZnN3M4OGU0M3k5cnR0NTNtYWJoenlnYXpldnppbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y8dWFUPzkSQqTEVxt5/giphy.gif"/>
+<img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXgzazY0NjQ3a3ZnN3M4OGU0M3k5cnR0NTNtYWJoenlnYXpldnppbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y8dWFUPzkSQqTEVxt5/giphy.gif"/>
 
 <div align="center">
 
